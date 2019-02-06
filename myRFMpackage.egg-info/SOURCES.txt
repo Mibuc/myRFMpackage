@@ -1,0 +1,11 @@
+MANIFEST.in
+README.rst
+setup.py
+myRFMpackage/__init__.py
+myRFMpackage/calculateRFM.py
+myRFMpackage.egg-info/PKG-INFO
+myRFMpackage.egg-info/SOURCES.txt
+myRFMpackage.egg-info/dependency_links.txt
+myRFMpackage.egg-info/not-zip-safe
+myRFMpackage.egg-info/requires.txt
+myRFMpackage.egg-info/top_level.txt

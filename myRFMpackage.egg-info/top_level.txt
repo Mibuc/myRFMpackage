@@ -1,0 +1,2 @@
+calculateRFM
+myRFMpackage
